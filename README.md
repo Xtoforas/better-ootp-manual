@@ -9,6 +9,8 @@ Over the years I've collected snippets of "best practices" and instead of keepin
 # Topics
 
 1. [Stats and Modelling][stats_and_modelling]
+2. [Perfect Point Generation Methods][pp_generation]
 
 
 [stats_and_modelling]: docs/StatsAndModelling.md
+[pp_generation]: docs/Market.md
