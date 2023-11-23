@@ -6,4 +6,9 @@ The [forums](https://forums.ootpdevelopments.com/) or [Discord](https://discorda
 
 Over the years I've collected snippets of "best practices" and instead of keeping them pinned in random chat messages I decided organizing them in a somewhat orderly fashion would make it helpful for new players and help me remember why certain things are the way they are.
 
+# Topics
 
+1. [Stats and Modelling][stats_and_modelling]
+
+
+[stats_and_modelling]: docs/StatsAndModelling.md
